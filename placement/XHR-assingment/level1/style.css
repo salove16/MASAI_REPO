@@ -1,0 +1,21 @@
+body {
+    margin: 40px;
+  }
+  
+  #main {
+    display: grid;
+    grid-gap: 1rem;
+    justify-content: center;
+    grid-template-columns: repeat(4, 1fr);
+    background-color: #fff;
+    color: #444;
+  }
+  
+  #box {
+    background-color: #444;
+    color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 150%;
+  }
+  

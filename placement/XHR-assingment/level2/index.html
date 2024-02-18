@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" href="./style.css">
+    <title>Simple Form</title>
+</head>
+<body>
+
+<form id="myForm">
+    <label for="title">Title:</label>
+    <input type="text" id="title" placeholder="Enter title">
+    <div id="titleError" class="error"></div>
+
+    <label for="body">Body:</label>
+    <input type="text" id="body" placeholder="Enter body">
+    <div id="bodyError" class="error"></div>
+
+    <label for="userId">User ID:</label>
+    <input type="number" id="userId" placeholder="Enter user ID">
+    <div id="userIdError" class="error"></div>
+
+    <button type="button" onclick="validateAndSubmit()">Submit</button>
+</form>
+
+<script src="./index.js"></script>
+
+</body>
+</html>
+
