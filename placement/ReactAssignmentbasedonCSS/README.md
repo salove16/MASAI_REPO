@@ -29,4 +29,4 @@ This will start the development server, and you can access the application in yo
 
 ## Deploy
 
-The project is deployed at [Netlify](https://friendly-clafoutis-d3b03e.netlify.app/). You can access the live version [here](https://friendly-clafoutis-d3b03e.netlify.app/).
+The project is deployed at [Vercel](https://navresponsive.vercel.app/). You can access the live version [here](https://navresponsive.vercel.app/).
