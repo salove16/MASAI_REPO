@@ -1,8 +1,34 @@
-# React + Vite
+# React Assignment based on CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Brief description of your project.
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Deploy](#deploy)
+- [Contributing](#contributing)
+- [License](#license)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/salove16/MASAI_REPO.git
+
+2. **Navigate to the project directory:**
+    cd placement/ReactAssignmentbasedonCSS/
+
+3. **Install dependencies:**
+    npm install
+
+## Usage
+
+To run the project locally, use the following command:
+
+npm run dev
+
+This will start the development server, and you can access the application in your browser at http://localhost:5173.
+
+## Deploy
+
+The project is deployed at https://friendly-clafoutis-d3b03e.netlify.app/. You can access the live version here.

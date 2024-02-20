@@ -4,7 +4,7 @@ import ImageCard from './ImageCard';
 import '../styles/gallery.css';
 
 const Gallery = () => {
-    const imageCardCount = 10;
+    const imageCardCount = 20;
     const imageCards = [];
   
     for (let i = 0; i < imageCardCount; i++) {

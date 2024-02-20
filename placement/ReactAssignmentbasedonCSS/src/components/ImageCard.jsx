@@ -9,7 +9,7 @@ const ImageCard = ({index}) => {
   const price = getRandomPrice();
   return (
     <div className="image-card">
-      <img src="" alt="" />
+      <img src="https://placehold.co/300x300" alt="" />
       <div className="card-content">
         <h3>random {index+1}</h3>
         <p>${price}</p>
