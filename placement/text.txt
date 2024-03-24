@@ -1,0 +1,98 @@
+   Interview Readiness Program
+Assignment  - HR Script  
+
+Please introduce yourself/ Why do you want to join our company?
+Good morning, Sir/Ma’am!
+Firstly, thank you for considering my application and taking the time to meet with me today. My name is Shashank Shalabh, and I hail from Patna, Bihar, currently residing in Hyderabad. I completed my B.Tech in ECE from TISL, affiliated with MAKAUT University, in 2018.
+Subsequently, I began preparing for civil exams and continued this pursuit for over two years. Unfortunately, I did not achieve the expected results. During the pandemic, I discovered MASAI, which offers a 30-week course. Upon delving deeper about Masai, my interest in becoming a software developer was piqued.
+Having a background in ECE, which includes Digital Electronics, a field closely related to coding, and being inherently logical, this opportunity provided me with a second chance. It inspired me to enroll in the Full Stack Web Development course at MASAI, where I have acquired knowledge in HTML, CSS, Node.js, MongoDB, React.js, Express, and JavaScript technologies.
+In August 2022, I joined M2P as a Full Stack Developer at Syntizen, an M2P company located in Hyderabad. Syntizen is a fintech-based company offering microservices such as VKYC, DKYC, FRS, and INSTANT PAN to the banking and corporate sectors. Leading an internal fintech project from inception, I applied my expertise to both the front-end and back-end, creating an exhilarating experience.
+Outside of work, my hobbies include music, cooking, DIY projects, gardening, and staying updated with new technologies.
+In my family, there are four members, including myself. My father is a retired officer from All India Radio, Patna. My mother is a homemaker and entrepreneur managing her dairy project. Additionally, my elder sister is pursuing a Ph.D. in Marketing Finance.
+
+
+(a)Why did you shift your industry or why is there a gap after graduation?
+If not applicable, attempt the below question.
+
+(b). Why did you choose to become a Software Developer?
+Following my initial pursuit of civil exams over a span of two years, I regrettably did not attain the anticipated results. However, amid the pandemic, I came across MASAI, an institution offering a 30-week course. Upon further exploration of MASAI, my interest in transitioning to software development was sparked.
+With a foundation in ECE, particularly Digital Electronics—a field intricately connected to coding—and a natural inclination towards logic, this presented a second chance for me. Motivated by this opportunity, I enrolled in MASAI's Full Stack Web Development course, driven by a newfound aspiration to excel in the software development realm
+
+
+
+ 
+
+What do you understand are going to be your job responsibilities in the given role?
+In this role, I will be responsible for developing front-end and back-end components using Node.js, React.js and other technologies. Additionally, I'll be expected to actively participate in the development community, seek advice, and solve users' issues. Deployment, nginx, and UI testing of applications will also be part of my duties. Overall, I'll be responsible for handling complete application development independently and with a team, Making sure to follow the best ways as well coding practice which is used in organisation to write code, and driving the team's learning path in application development. I think this much.
+I believe I understand my responsibilities according to the JD; if I missed anything, please correct me by adding them.
+
+Why would you like to join our company? How do you think you can be an asset to the organisation?  
+I'm excited about the opportunity to join NeoDove because of its commitment to empowering small and medium businesses with innovative solutions.
+With my background in full-stack Software development and hands-on experience with MERN stack technologies, I see myself fitting seamlessly into NeoDove's development team. 
+
+My proficiency in JavaScript, React, and Node.js aligns well with NeoDove's focus on building telecalling CRM platforms. And also my ability to handle complete application development independently and within a team setting, combined with my analytical thought process, makes me confident that I can contribute positively to NeoDove's objectives. 
+
+I am eager to bring my expertise to NeoDove and be a valuable asset to the organisation.
+
+
+
+
+
+What are your career objectives? Or Where do you see yourself in the next  3-5 years?
+In the coming years, I aspire to evolve into a seasoned full-stack developer, delving deeper into advanced technologies and frameworks. My goal is to enhance my expertise in scalable architecture, microservices, and cloud technologies. I plan to contribute significantly to complex projects, taking on leadership responsibilities and ensuring the successful delivery of high-quality software solutions.
+
+What are your strengths and weaknesses?
+Strength:
+I am a hardworking and self-motivated individual skilled in creating RESTful APIs using technologies like Node.js and Express. My effective problem-solving skills, combined with a knack for troubleshooting, ensure the development of clean, maintainable, and efficient back-end code. As a continuous learner, I am committed to expanding my expertise, making me a valuable asset to any project or team.
+Weaknes:
+I recognize a weakness in my limited exposure to the latest trends and best practices in front-end development, particularly with modern frameworks like React. In my previous role, the emphasis was predominantly on the backend. However, I am actively addressing this gap by proactively seeking opportunities to enhance my front-end development skills. Simultaneously, I am dedicated to working on the frontend to catch up on necessary practices, ensuring a more comprehensive skill set
+
+Why should we hire you?
+Based on my understanding of the job role and according to the skills mentioned in the Job Description, I see a strong alignment between my skills and the role's requirements. 
+My proficiency in JavaScript, along with MERN stack and typescript, makes me a strong candidate. I'm a quick learner and highly adaptable, eager to contribute my technical skills and dedication to help NeoDove’s mission of empowering SMEs. 
+With these skills and attributes, I feel confident that I can fulfil the requirements and prove to be an asset to your organisation
+
+What is your Salary expectation?
+Thank you very much for asking me this question :)
+
+
+The placements team at Masai has given me an idea about the salary bracket for this role, and I am aligned with that. However, I would really appreciate if you could please share what you feel is good as per my capabilities 🙂
+
+4 LPA
+
+Smile 🙂, Thank you very much for your offer. As this sounds slightly different from what I understood from the placement team, I would request you to allow me 1 hour's time to confirm with my Masai mentors and come back to you/ accept the offer. 
+
+
+
+
+Are you open to relocation?
+Flexibility is key in my approach to career advancement.While I am currently based in my hometown, I am open to relocating to Bengaluru to pursue new opportunities and further my career development. 🙂
+
+Let's say you are delayed on a deadline, how would you manage it? (Answer this question using the STAR Method).
+During my previous role as a Full-Stack Developer at Nirmaan.org, me and the team were working on one feature with a tight deadline. 
+But Unfortunately, midway through the development process, we encountered an unexpected technical hurdle related to data integration with a third-party API.
+I ping everyone on slack to talk about what happened and how it might affect our deadline. We made sure to tell everyone involved, like our Project manager and stakeholder.
+Then we Collaborated on solutions with the third party api team. After talking it over, we figured out the best way to solve it.
+Once we knew how long it would take to fix, we carefully changed our plan for finishing the project. We made sure our new plan was possible and let everyone know why we made the changes. 
+Because we talked openly, worked together, and were flexible, As a result, we managed to fix the problem and finish the project on time.
+Why should we hire you? Or How do you think you can be an asset to the organisation?
+My strong MERN stack skills,based on my experience working on a production application end to end, i think your needs align perfectly with me. I'm a quick learner, eager to contribute. And as a team player with good communication, I'm excited to join Company Name and contribute to its growth.
+
+
+
+
+Do you have any questions for me?
+I read good things about the company on linkedIn, Could you please tell me about the company's work culture?
+How does the company support employee professional development?"
+What are the main challenges the team or company is currently facing, and how do you see this role contributing to addressing them?
+
+
+
+
+
+
+
+
+
+
+

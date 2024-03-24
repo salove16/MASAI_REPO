@@ -1,0 +1,1 @@
+/*For crud function but without method such as get ,post ,delete and update of the given collection. this will handled by route.js */

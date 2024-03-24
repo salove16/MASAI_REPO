@@ -1,0 +1,1 @@
+/* For routing using methods but not functionality  */

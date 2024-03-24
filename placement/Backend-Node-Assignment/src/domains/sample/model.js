@@ -1,0 +1,1 @@
+/*For schema of the given collection */
