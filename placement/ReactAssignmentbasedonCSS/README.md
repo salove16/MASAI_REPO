@@ -6,8 +6,6 @@ Brief description of your project.
 - [Installation](#installation)
 - [Usage](#usage)
 - [Deploy](#deploy)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -31,4 +29,4 @@ This will start the development server, and you can access the application in yo
 
 ## Deploy
 
-The project is deployed at https://friendly-clafoutis-d3b03e.netlify.app/. You can access the live version here.
+The project is deployed at [Vercel](https://navresponsive.vercel.app/). You can access the live version [here](https://navresponsive.vercel.app/).
